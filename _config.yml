@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: Lercong
-baseurl: /Dreaming
+baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
